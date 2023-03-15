@@ -1,4 +1,4 @@
-# Template for producer-consumer model robots using work items
+# Lvel II Automation Developer Exercise: Order robot from RobotSpareBin website
 
 This template contains a working robot implementation that has the basic structure where one part produces work items from input and another part that consumes those work items. 
 
